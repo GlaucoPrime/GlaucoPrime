@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://c.tenor.com/t56uB8s2g2AAAAAC/akuma-taunt-street-fighter.gif" width="180" height="270" alt="Akuma Taunt - GIF Animado">
+<p align="left">
+  <img src="EvilRyu.gif" width="180" height="270" alt="Evil Ryu GIF" align="left" style="margin-right: 20px;">
 </p>
 
 # 👋 Olá, meu nome é Glauco! 🤩
@@ -11,6 +11,8 @@
 * 🌱 **Atualmente, estou estudando:** Dispositivos Móveis e banco de dados;
 * 💻 **Projetos Recentes:** `CreditScore-ML-Model` (Previsão de Crédito) e `AutoFormFiller` (Automação Web);
 * 🔗 **Você pode me encontrar no:** [LinkedIn](https://www.linkedin.com/in/glauco-telino).
+
+<br clear="both">
 
 ---
 
