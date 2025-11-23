@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://i.ibb.co/1GWPMJzB/Evil-Ryu.gif" width="180" height="270" alt="Evil Ryu GIF" align="left" style="margin-right: 20px;">
+  <img src="https://i.ibb.co/4RhgdtvN/Evil-Ryu-GIF.gif" width="180" height="270" alt="Evil Ryu GIF" align="left" style="margin-right: 20px;">
 </p>
 
 # 👋 Olá, meu nome é Glauco! 🤩
