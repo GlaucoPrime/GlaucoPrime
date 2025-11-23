@@ -1,8 +1,9 @@
-<p align="left">
-  <img src="https://i.ibb.co/4RhgdtvN/Evil-Ryu-GIF.gif" width="180" height="270" alt="Evil Ryu GIF" align="left" style="margin-right: 25px;">
-</p>
-
-<div style="margin-left: 200px;">
+<table>
+  <tr>
+    <td>
+      <img src="https://i.ibb.co/4RhgdtvN/Evil-Ryu-GIF.gif" width="180" height="270" alt="Evil Ryu GIF">
+    </td>
+    <td>
 
 # 👋 Olá, meu nome é Glauco! 🤩
 
@@ -14,9 +15,9 @@
 * 💻 **Projetos Recentes:** `CreditScore-ML-Model` (Previsão de Crédito) e `AutoFormFiller` (Automação Web);
 * 🔗 **Você pode me encontrar no:** [LinkedIn](https://www.linkedin.com/in/glauco-telino).
 
-</div>
-
-<br clear="both">
+    </td>
+  </tr>
+</table>
 
 ---
 
