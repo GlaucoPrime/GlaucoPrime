@@ -5,15 +5,17 @@
     </td>
     <td>
 
-# 👋 Olá, meu nome é Glauco! 🤩
+# <span style="color:#ff3b3b;">👋 Olá, meu nome é Glauco!</span> 🔥
 
-### 🎯 Sobre Mim:
+### <span style="color:#ff4949;">🎯 Sobre Mim</span>
 
-* 🎓 **Sou estudante de:** Análise e Desenvolvimento de Sistemas;
-* 🔥 **Minhas linguagens de foco são:** Python (para automação e IA) e C;
-* 🌱 **Atualmente, estou estudando:** Dispositivos Móveis e banco de dados;
-* 💻 **Projetos Recentes:** `CreditScore-ML-Model` (Previsão de Crédito) e `AutoFormFiller` (Automação Web);
-* 🔗 **Você pode me encontrar no:** [LinkedIn](https://www.linkedin.com/in/glauco-telino).
+* 🎓 **Sou estudante de:** Análise e Desenvolvimento de Sistemas  
+* 🔥 **Minhas linguagens de foco são:** Python (Automação & IA) e C  
+* 🌱 **Atualmente estudando:** Dispositivos Móveis e Banco de Dados  
+* 💻 **Projetos Recentes:**  
+  - `CreditScore-ML-Model` — Previsão de crédito  
+  - `AutoFormFiller` — Automação web  
+* 🔗 **Meu LinkedIn:** [Clique aqui](https://www.linkedin.com/in/glauco-telino)
 
     </td>
   </tr>
@@ -21,40 +23,42 @@
 
 ---
 
-## 🧠 Hard Skills & Tech Stack
+## <span style="color:#ff3b3b;">🧠 Hard Skills & Tech Stack</span>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" height="40" alt="XML logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 </p>
 
 ---
 
-## GitHub Stats
+## <span style="color:#ff0000;">🔥 GitHub Stats</span>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardaRFSousa&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaRFSousa&layout=compact&theme=rose_pine"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GlaucoPrime&show_icons=true&theme=darcula&title_color=ff3b3b&text_color=cfcfcf&icon_color=ff3b3b&border_color=ff3b3b&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaucoPrime&layout=compact&theme=darcula&title_color=ff3b3b&text_color=cfcfcf&border_color=ff3b3b&icon_color=ff3b3b"/>
 </p>
+
