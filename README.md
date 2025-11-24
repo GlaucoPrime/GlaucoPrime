@@ -53,10 +53,8 @@
 
 ---
 
+## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaucoPrime&layout=compact&theme=dark&langs_count=6&hide_border=true&title_color=D08770&text_color=B48EAD&icon_color=EBCB8B" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GlaucoPrime&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=D08770&text_color=B48EAD&icon_color=EBCB8B" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardaRFSousa&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaRFSousa&layout=compact&theme=rose_pine"/>
 </p>
