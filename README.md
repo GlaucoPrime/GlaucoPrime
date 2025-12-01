@@ -5,7 +5,8 @@
     </td>
     <td>
 
-# <span style="color:#ff3b3b;">👋 Olá, meu nome é Glauco!</span> 🔥
+# <span style="color:#ff3b3b;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00A3FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Glauco+Telino!;Bem-vindo+ao+meu+GitHub!;💻+Desenvolvedor+em+Evolução;🚀+Apaixonado+por+Tecnologia"/> </span> 
 
 ### <span style="color:#ff4949;">🎯 Sobre Mim</span>
 
@@ -42,15 +43,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 </p>
 
 ---
