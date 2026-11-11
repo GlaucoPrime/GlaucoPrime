@@ -97,7 +97,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por transfor
 <!--START_SECTION:latest-->
 <div align="center">
 
-Esta seção é preenchida automaticamente pela GitHub Action.
+### [Teste-Livraria](https://github.com/GlaucoPrime/Teste-Livraria)
+
+Sem descrição.
+
+`Java` · ⭐ 0 · 🍴 0 · criado em 2026-02-25
 
 </div>
 <!--END_SECTION:latest-->
