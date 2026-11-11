@@ -1,0 +1,72 @@
+name: Atualizar último projeto
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Buscar último repositório e atualizar README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER_NAME: GlaucoPrime
+        run: |
+          REPO_JSON=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/users/$USER_NAME/repos?sort=created&direction=desc&per_page=15&type=owner" \
+            | jq -c --arg u "$USER_NAME" '[.[] | select(.fork == false and .name != $u)][0]')
+          export REPO_JSON
+
+          if [ "$REPO_JSON" = "null" ] || [ -z "$REPO_JSON" ]; then
+            echo "Nenhum repositório encontrado."
+            exit 0
+          fi
+
+          python3 - <<'EOF'
+          import os, json, re
+
+          r = json.loads(os.environ["REPO_JSON"])
+          desc = r.get("description") or "Sem descrição."
+          lang = r.get("language") or "—"
+          created = r["created_at"][:10]
+
+          block = f"""<!--START_SECTION:latest-->
+          <div align="center">
+
+          ### [{r['name']}]({r['html_url']})
+
+          {desc}
+
+          `{lang}` · ⭐ {r['stargazers_count']} · 🍴 {r['forks_count']} · criado em {created}
+
+          </div>
+          <!--END_SECTION:latest-->"""
+
+          # remove a indentação do heredoc
+          block = "\n".join(line.strip() for line in block.splitlines())
+
+          with open("README.md", encoding="utf-8") as f:
+              content = f.read()
+
+          content = re.sub(
+              r"<!--START_SECTION:latest-->.*?<!--END_SECTION:latest-->",
+              lambda m: block,
+              content,
+              flags=re.S,
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || (git commit -m "chore: atualiza último projeto" && git push)
