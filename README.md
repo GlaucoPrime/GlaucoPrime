@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Glauco%20Telino&fontSize=48&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Python%20%26%20Dados%20%7C%20Mobile%20%26%20IA&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<h1>Glauco Telino</h1>
+
+<p><b>Backend Developer | Python & Dados | Mobile & IA</b></p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00A3FF&center=true&vCenter=true&width=900&height=40&lines=Ol%C3%A1%2C+eu+sou+Glauco+%F0%9F%91%8B;Backend+Developer+%7C+Dados+%26+Automa%C3%A7%C3%A3o;Apaixonado+por+Banco+de+Dados%2C+IA+e+Computa%C3%A7%C3%A3o+Qu%C3%A2ntica;Construindo+coisas+que+resolvem+problemas+reais" alt="Typing SVG" />
 
@@ -19,11 +21,13 @@
 
 ### 🎯 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por transformar código e dados em soluções que resolvem problemas reais.
+
 - 💻 **Backend Developer**, com forte interesse em **mobile, IA e automação**
-- ⚛️ Curioso por **computação quântica** (tema do meu seminário atual, e estou adorando!)
 - 🔥 Foco atual: **Python** (automação & IA) e **C**
-- ⚙️ Trabalho com **Supabase, Neon, Firebase, SQL e Jupyter** no dia a dia
+- 🗄️ Gosto de **modelar e construir bancos de dados**, e uso **Supabase, Neon, Firebase, SQL e Jupyter** no dia a dia
+- 📱 Carinho especial por projetos **mobile** (Kotlin/Android), com experiência em **Java**
+- ⚛️ Curioso por **computação quântica**: é o tema do meu seminário atual, e estou adorando!
 
 </td>
 </tr>
@@ -42,12 +46,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/>
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="42"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/>
 
 <br><br>
 
@@ -99,9 +97,7 @@
 <!--START_SECTION:latest-->
 <div align="center">
 
-### [AutoFormFiller](https://github.com/GlaucoPrime/AutoFormFiller)
-
-Atualizado automaticamente a cada novo repositório.
+Esta seção é preenchida automaticamente pela GitHub Action.
 
 </div>
 <!--END_SECTION:latest-->
@@ -111,9 +107,5 @@ Atualizado automaticamente a cada novo repositório.
 ### 📫 Vamos conversar?
 
 <a href="https://www.linkedin.com/in/glauco-telino"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
 </div>
