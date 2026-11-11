@@ -21,8 +21,6 @@
 
 ### 🎯 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por transformar código e dados em soluções que resolvem problemas reais.
-
 - 💻 **Backend Developer**, com forte interesse em **mobile, IA e automação**
 - 🔥 Foco atual: **Python** (automação & IA) e **C**
 - 🗄️ Gosto de **modelar e construir bancos de dados**, e uso **Supabase, Neon, Firebase, SQL e Jupyter** no dia a dia
