@@ -20,7 +20,7 @@ jobs:
           USER_NAME: GlaucoPrime
         run: |
           REPO_JSON=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
-            "https://api.github.com/users/$USER_NAME/repos?sort=created&direction=desc&per_page=15&type=owner" \
+            "https://api.github.com/users/$USER_NAME/repos?sort=pushed&direction=desc&per_page=15&type=owner" \
             | jq -c --arg u "$USER_NAME" '[.[] | select(.fork == false and .name != $u)][0]')
           export REPO_JSON
 
@@ -35,7 +35,7 @@ jobs:
           r = json.loads(os.environ["REPO_JSON"])
           desc = r.get("description") or "Sem descrição."
           lang = r.get("language") or "—"
-          created = r["created_at"][:10]
+          created = r["pushed_at"][:10]
 
           block = f"""<!--START_SECTION:latest-->
           <div align="center">
