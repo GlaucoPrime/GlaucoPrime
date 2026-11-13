@@ -95,11 +95,11 @@
 <!--START_SECTION:latest-->
 <div align="center">
 
-### [Weatherapp](https://github.com/GlaucoPrime/Weatherapp)
+### [Quantum-Lab](https://github.com/GlaucoPrime/Quantum-Lab)
 
 Sem descrição.
 
-`Kotlin` · ⭐ 0 · 🍴 0 · criado em 2026-10-21
+`Python` · ⭐ 0 · 🍴 0 · criado em 2026-11-13
 
 </div>
 <!--END_SECTION:latest-->
